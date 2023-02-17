@@ -21,9 +21,12 @@ To create a new Hydrogen app, run:
 npm init @shopify/hydrogen
 ```
 
+well, helloooo
+
 ## Running the dev server
 
 Then `cd` into the new directory and run:
+wowoww
 
 ```bash
 npm install
@@ -37,6 +40,8 @@ Remember to update `hydrogen.config.js` with your shop's domain and Storefront A
 ```bash
 npm run build
 ```
+
+another change here
 
 ## Previewing a production build
 
