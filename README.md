@@ -39,6 +39,8 @@ Remember to update `hydrogen.config.js` with your shop's domain and Storefront A
 npm run build
 ```
 
+another change here
+
 ## Previewing a production build
 
 To run a local preview of your Hydrogen app in an environment similar to Oxygen, build your Hydrogen app and then run `npm run preview`:
