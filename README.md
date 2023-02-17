@@ -24,6 +24,7 @@ npm init @shopify/hydrogen
 ## Running the dev server
 
 Then `cd` into the new directory and run:
+wowoww
 
 ```bash
 npm install
